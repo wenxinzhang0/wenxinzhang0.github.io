@@ -9,7 +9,7 @@ author_profile: true
 ## Working Papers
 
 ### - [Distributed Load Balancing with Workload-Dependent Service Rates](https://arxiv.org/abs/2411.17103). 
-with Santiago R. Balseiro, Robert Kleinberg, Vahab Mirrokni, Balasubramanian Sivan, and Bartek Wydrowski
+with Santiago R. Balseiro, Robert Kleinberg, Vahab Mirrokni, Balasubramanian Sivan, and Bartek Wydrowski  
 Submitted to *Operations Research*  
 *Proceedings of the ACM Conference on Economics and Computation (EC)*, 2025  
 
