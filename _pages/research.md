@@ -12,6 +12,7 @@ author_profile: true
 with Santiago R. Balseiro, Robert Kleinberg, Vahab Mirrokni, Balasubramanian Sivan, and Bartek Wydrowski
 
 Submitted to *Operations Research* 
+
 *Proceedings of the ACM Conference on Economics and Computation (EC)*, 2025  
 
 ---
