@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Wenxin, a PhD student at Columbia Business School in the Decision, Risk, and Operations division. I am advised by [Santiago R. Balseiro](https://www.columbia.edu/~srb2155/) and [Will Ma](https://www.columbia.edu/~wm2428/). 
+Hi! I am Wenxin, a fifth-year PhD student at Columbia Business School in the Decision, Risk, and Operations division. I am very fortunate to be advised by [Santiago R. Balseiro](https://www.columbia.edu/~srb2155/) and [Will Ma](https://www.columbia.edu/~wm2428/). 
 
-I am broadly interested in online algorithms for resource allocation, with a focus on applications in pricing, revenue management, and general service systems. In the summer of 2024, I was a student researcher at Google Research, where I worked on developing load balancing algorithms.
+I am broadly interested in dynamic resource allocation, especially for large-scale computing systems that power modern machine learning services. I combine stochastic models, optimization, and control-theoretic methods to design simple, deployable algorithms with strong theoretical performance guarantees. In the summer of 2024 and 2025, I was a student researcher at Google Research hosted by [Balasubramanian Sivan](https://pages.cs.wisc.edu/~balu2901/), where I worked on developing distributed load balancing algorithms.
 
 Previously, I obtained my BE in Industrial Engineering from Tsinghua University, with a minor in Data Science and Technology. 
 
