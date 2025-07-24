@@ -8,8 +8,10 @@ author_profile: true
 
 ## Working Papers
 
-### - [Optimal and Stable Distributed Bipartite Load Balancing](https://arxiv.org/abs/2411.17103). 
+### - [Distributed Load Balancing with Workload-Dependent Service Rates](https://arxiv.org/abs/2411.17103). 
 with Santiago R. Balseiro, Robert Kleinberg, Vahab Mirrokni, Balasubramanian Sivan, and Bartek Wydrowski
+Submitted to *Operations Research* 
+*Proceedings of the ACM Conference on Economics and Computation (EC)*, 2025  
 
 ---
 
@@ -22,13 +24,15 @@ Major Revision at *Operations Research*
 
 ---
 
-### - [Dynamic Pricing for Reusable Resources: The Power of Two Prices](https://arxiv.org/abs/2308.13822).
-with Santiago R. Balseiro and Will Ma  
-Major Revision at *Operations Research*  
 
----
 
 ## Peer-reviewed 
+
+### - [Dynamic Pricing for Reusable Resources: The Power of Two Prices](https://arxiv.org/abs/2308.13822).
+with Santiago R. Balseiro and Will Ma  
+*Operations Research* (Forthcoming)
+
+---
 
 ### - [A Gilmore-Gomory-Type Construction of Integer Programming Value Functions](https://www.sciencedirect.com/science/article/pii/S0167637721000602).
 with Seth Brown, Temitayo Ajayi, and Andrew J. Schaefer  
