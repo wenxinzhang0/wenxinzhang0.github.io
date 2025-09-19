@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Link to CV](https://wenxinzhang0.github.io/files/Wenxin_CV.pdf) (Last updated July 2025)
+[Link to CV](https://wenxinzhang0.github.io/files/Wenxin_CV.pdf) (Last updated September 2025)
