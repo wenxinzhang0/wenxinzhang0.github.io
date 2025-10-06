@@ -4,36 +4,56 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
+ 
+ 
+## Publications
 
-
-## Working Papers
-
-### - [Distributed Load Balancing with Workload-Dependent Service Rates](https://arxiv.org/abs/2411.17103). 
-with Santiago R. Balseiro, Robert Kleinberg, Vahab Mirrokni, Balasubramanian Sivan, and Bartek Wydrowski  
-Submitted to *Operations Research*  
-*Proceedings of the ACM Conference on Economics and Computation (EC)*, 2025  
-
----
-
-
-### - [Feature Based Dynamic Matching](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451799). 
+### - [Feature-Based Dynamic Matching](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451799).
 with Yilun Chen, Yash Kanoria, and Akshit Kumar  
-Major Revision at *Operations Research*  
-*Proceedings of the ACM Conference on Economics and Computation (EC)*, 2023  
-
-
+*Operations Research*, forthcoming  
+*24th ACM Conference on Economics and Computation (EC)*, 2023  
+- **Finalist, Michael H. Rothkopf Junior Researcher Paper Prize Competition**, 2025 (Entrant: A. Kumar, Winner TBD)  
+- **First Place, Jeff McGill RMP Best Student Paper Prize**, 2024 (Entrant: A. Kumar)
+ 
 ---
 
 
+### - Tail-Optimized Caching for LLM Inference.
+with Yueying Li, Ciamac Moallemi, and Tianyi Peng  
+*Neural Information Processing Systems (NeurIPS)*, 2025  
+- Accepted at 3rd ICML Workshop on Efficient Systems for Foundation Models, 2025.
+ 
+---
 
-## Peer-reviewed 
-
-### - [Dynamic Pricing for Reusable Resources: The Power of Two Prices](https://arxiv.org/abs/2308.13822).
+### - [Dynamic Pricing for Reusable Resources: The Power of Two Prices](https://pubsonline.informs.org/doi/abs/10.1287/opre.2023.0475).
 with Santiago R. Balseiro and Will Ma  
-*Operations Research* (Forthcoming)
-
+*Operations Research*, 2025
+ 
 ---
+ 
 
+ 
 ### - [A Gilmore-Gomory-Type Construction of Integer Programming Value Functions](https://www.sciencedirect.com/science/article/pii/S0167637721000602).
 with Seth Brown, Temitayo Ajayi, and Andrew J. Schaefer  
-*Operations Research Letters*, 2021  
+*Operations Research Letters*, 2021
+ 
+
+ 
+## Working Papers
+ 
+### - Distributed Load Balancing with Adversarial Arrivals.
+with Santiago R. Balseiro, Robert Kleinberg, and Balasubramanian Sivan
+ 
+---
+ 
+### - [Distributed Load Balancing with Workload-Dependent Service Rates](https://arxiv.org/pdf/2411.17103).
+with Santiago R. Balseiro, Robert Kleinberg, Vahab Mirrokni, Balasubramanian Sivan, and Bartek Wydrowski  
+*26th ACM Conference on Economics and Computation (EC)*, 2025  
+- Journal version under review at *Operations Research*.  
+- **Finalist, Applied Probability Society Best Student Paper Competition, 2025** (Winner TBD)
+ 
+---
+ 
+### - Leveraging Offline Data for Online Decision-Making in Bayesian Multi-Armed Bandits.
+with Santiago R. Balseiro and Will Ma
+ 
