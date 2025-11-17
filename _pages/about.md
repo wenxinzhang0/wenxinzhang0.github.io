@@ -2,6 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
+classes: about-wide
 redirect_from: 
   - /about/
   - /about.html
@@ -18,7 +19,7 @@ Previously, I obtained my BE in Industrial Engineering from Tsinghua University,
 # Contact
 wz2574 [at] columbia.edu
 
-# Upcoming Talks
+<!-- # Upcoming Talks
 INFORMS Annual Meeting, Atlanta, GA \
 Date: Monday, October 27, 2025 | Time: 11:00 AM - 12:15 PM | Room: Building A Level 4 A408\
 Session: APS Student Paper Competition\
@@ -27,7 +28,7 @@ Title: Distributed Load Balancing with Workload-Dependent Service Rates
 INFORMS Annual Meeting, Atlanta, GA \
 Date: Tuesday, October 28, 2025 | Time: 11:28 AM - 11:36 AM | Room: Building A Level 3 A307\
 Session: Job Market Showcase - Routing and Scheduling\
-Title: Distributed Load Balancing with Workload-Dependent Service Rates
+Title: Distributed Load Balancing with Workload-Dependent Service Rates -->
 
 
 
