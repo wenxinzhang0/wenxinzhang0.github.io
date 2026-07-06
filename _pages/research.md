@@ -8,9 +8,9 @@ author_profile: true
  
 ## Publications
 
-### - [Feature-Based Dynamic Matching](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451799).
+### - [Feature-Based Dynamic Matching](https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.0730).
 with Yilun Chen, Yash Kanoria, and Akshit Kumar  
-*Operations Research*, forthcoming  
+*Operations Research*, 2025  
 *24th ACM Conference on Economics and Computation (EC)*, 2023  
 - **Third Place, Michael H. Rothkopf Junior Researcher Paper Prize Competition**, 2025 (Entrant: A. Kumar) 
 - **First Place, Jeff McGill RMP Best Student Paper Prize**, 2024 (Entrant: A. Kumar)
@@ -49,11 +49,11 @@ with Santiago R. Balseiro, Robert Kleinberg, and Balasubramanian Sivan
 ### - [Distributed Load Balancing with Workload-Dependent Service Rates](https://arxiv.org/pdf/2411.17103).
 with Santiago R. Balseiro, Robert Kleinberg, Vahab Mirrokni, Balasubramanian Sivan, and Bartek Wydrowski  
 *26th ACM Conference on Economics and Computation (EC)*, 2025  
-- Journal version under review at *Operations Research*.  
+- Journal version under review at *Manufacturing & Service Operations Management*.  
 - **Finalist, Applied Probability Society Best Student Paper Competition, 2025**
  
 ---
  
-### - Leveraging Offline Data for Online Decision-Making in Bayesian Multi-Armed Bandits.
-with Santiago R. Balseiro and Will Ma
+<!-- ### - Leveraging Offline Data for Online Decision-Making in Bayesian Multi-Armed Bandits.
+with Santiago R. Balseiro and Will Ma -->
  

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Wenxin, a Visiting Faculty Researcher at Google Research NYC. In 2027, I will join London Business School as an Assistant Professor of Management Science and Operations.
+Hi! I am Wenxin, a Visiting Faculty Researcher at Google Research NYC. I will join London Business School as an Assistant Professor of Management Science and Operations in August 2027.
 
 I am broadly interested in dynamic resource allocation, especially for large-scale computing systems that power modern machine learning services. I build application-grounded models and design simple, deployable algorithms with provable performance guarantees, drawing tools from stochastic modeling, optimization, and control theory.
 
